@@ -16,5 +16,20 @@ namespace ProjetoAula02
         {
             InitializeComponent();
         }
+
+        private void rbtCharmander_CheckedChanged(object sender, EventArgs e)
+        {
+            pictureBoxPokemon.Image = Properties.Resources.charmander;
+        }
+
+        private void rbtSquirtle_CheckedChanged(object sender, EventArgs e)
+        {
+            pictureBoxPokemon.Image = Properties.Resources.squirtle;
+        }
+
+        private void rbtBulbassauro_CheckedChanged(object sender, EventArgs e)
+        {
+            pictureBoxPokemon.Image = Properties.Resources.bulbasaur;
+        }
     }
 }

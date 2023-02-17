@@ -57,6 +57,7 @@ namespace ProjetoAula02
             this.rbtBulbassauro.TabIndex = 1;
             this.rbtBulbassauro.Text = "Bulbassauro";
             this.rbtBulbassauro.UseVisualStyleBackColor = true;
+            this.rbtBulbassauro.CheckedChanged += new System.EventHandler(this.rbtBulbassauro_CheckedChanged);
             // 
             // rbtSquirtle
             // 
@@ -68,6 +69,7 @@ namespace ProjetoAula02
             this.rbtSquirtle.TabIndex = 2;
             this.rbtSquirtle.Text = "Squitle";
             this.rbtSquirtle.UseVisualStyleBackColor = true;
+            this.rbtSquirtle.CheckedChanged += new System.EventHandler(this.rbtSquirtle_CheckedChanged);
             // 
             // rbtCharmander
             // 
@@ -81,6 +83,7 @@ namespace ProjetoAula02
             this.rbtCharmander.TabStop = true;
             this.rbtCharmander.Text = "Charmander";
             this.rbtCharmander.UseVisualStyleBackColor = true;
+            this.rbtCharmander.CheckedChanged += new System.EventHandler(this.rbtCharmander_CheckedChanged);
             // 
             // pictureBoxPokemon
             // 
