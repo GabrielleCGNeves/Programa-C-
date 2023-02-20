@@ -89,5 +89,68 @@
   <ItemGroup>
     <None Include="Resources\bulbasaur.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jigglypuff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sandshrew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ekans.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rattata.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pidgey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weedle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caterpie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_magnemite.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_gastly.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_abra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_diglett.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_growlithe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_ponyta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_caterpie.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_bulbasaur.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_squirtle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_charmander.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_magnemite1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sim.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
